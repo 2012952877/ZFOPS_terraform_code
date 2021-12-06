@@ -9,11 +9,11 @@ terraform {
 }
 
 # Or set url and token in here
-provider "azuredevops" {
+/* provider "azuredevops" {
   version = ">= 0.1.0"
-  org_service_url = "https://dev.azure.com/MLOPSdeon/"
-  personal_access_token = "354dxr2e2452sk6zivzdmbx3bjoo4ago4uahuqnpnfkrwiaji4pa"
-}
+  org_service_url = "https://dev.azure.com/<>/"
+  personal_access_token = ""
+} */
 
 
 # 创建Project 
